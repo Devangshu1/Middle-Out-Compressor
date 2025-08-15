@@ -2,7 +2,8 @@
 👨‍💻 Author
 Yoshita Sharma
 Devangshu Singh
-📧 your-singhdevangshu@gmail.com
+📧 singhdevangshu@gmail.com
+📧 sharmayoshita7@gmail.com
 ![MiddleOut Logo](./assets/logo.png)  
 *A next-generation lossless compression tool inspired by the Pied Piper concept — delivering high compression ratios without sacrificing speed or data integrity.*
 
