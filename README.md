@@ -1,6 +1,6 @@
 # MiddleOut Compressor
 👨‍💻 Author
-Yoshita Sharma
+Yoshita Sharma &
 Devangshu Singh
 📧 singhdevangshu@gmail.com
 📧 sharmayoshita7@gmail.com
