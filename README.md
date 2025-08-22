@@ -1,9 +1,7 @@
 # MiddleOut Compressor
 👨‍💻 Author
-Yoshita Sharma &
 Devangshu Singh
 📧 singhdevangshu@gmail.com
-📧 sharmayoshita7@gmail.com
 ![MiddleOut Logo](logo.png)  
 *A next-generation lossless compression tool inspired by the Pied Piper concept — delivering high compression ratios without sacrificing speed or data integrity.*
 
